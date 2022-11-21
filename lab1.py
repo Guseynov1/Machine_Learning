@@ -11,7 +11,7 @@ from sklearn.preprocessing import *
 from sklearn.model_selection import KFold
 from sklearn.model_selection import cross_val_score
 from sklearn.preprocessing import StandardScaler
-from additionally import graph as processing
+from additionally import supportive as processing
 
 
 # 1 Processing of analyzed data
