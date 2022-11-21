@@ -14,7 +14,7 @@ from tensorflow.python.keras.models import Sequential
 from tensorflow.python.keras.utils.np_utils import to_categorical
 import warnings
 
-from additionally.graph import draw, neuronet, combined_histogram, data, readCSV, boxplots
+from additionally.supportive import draw, neuronet, combined_histogram, data, readCSV, boxplots
 import tensorflow as tf
 
 warnings.filterwarnings('always')  # "error", "ignore", "always", "default", "module" or "once"
