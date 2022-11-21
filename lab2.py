@@ -9,7 +9,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn import model_selection
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import *
-from additionally import graph as draw
+from additionally import supportive as draw
 
 # 1. Processing of analyzed data
 data = read_csv('spam.csv', encoding='ISO-8859-1')\
