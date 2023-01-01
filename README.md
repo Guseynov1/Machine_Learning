@@ -14,7 +14,7 @@
 2. Training and application of models of decision tree, random forest, gradient boosting and neural networks with optimal parameters on two data sets.
 3. Построение и визуализация метрики качества для обучающего набора данных и тестового.
 
-# Course Project.
+# Course Project (CP).
 Automated classification of a short circuit at a substation.
 The Matlab software environment was used to generate Comtrade files.
 
